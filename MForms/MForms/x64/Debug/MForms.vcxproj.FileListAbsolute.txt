@@ -1,0 +1,4 @@
+C:\Users\miral\source\repos\MForms\MForms\x64\Debug\MForms.vcxproj.AssemblyReference.cache
+C:\Users\miral\source\repos\MForms\MForms\x64\Debug\MForms.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\miral\source\repos\MForms\MForms\x64\Debug\MForms.MyForm.resources
+C:\Users\miral\source\repos\MForms\MForms\x64\Debug\MForms.vcxproj.GenerateResource.cache

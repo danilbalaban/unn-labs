@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+C:\Users\miral\source\repos\MForms\MForms\TBitField.h(84,23): warning C4018: <=: несоответствие типов со знаком и без знака
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  MForms.vcxproj -> C:\Users\miral\source\repos\MForms\x64\Debug\MForms.exe
